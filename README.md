@@ -373,7 +373,7 @@ The dashboard includes:
 * Interactive click/filter behavior
 
 
-→ **[View the live dashboard on Tableau Public]([https://public.tableau.com/views/FacultyPublicationTrend/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/IMT577_DW_Souporno_Ghosh_Dashboard_Story/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+→ **[View the live dashboard on Tableau Public](https://public.tableau.com/views/IMT577_DW_Souporno_Ghosh_Dashboard_Story/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 <img width="750" height="601" alt="image" src="https://github.com/user-attachments/assets/fbde035a-8b6e-4a84-b07b-e2c8ce655585" />
 
