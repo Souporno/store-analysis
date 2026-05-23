@@ -8,8 +8,7 @@ The analysis focuses on **Store 10** and **Store 21**. I built the full pipeline
 
 [Put final Tableau dashboard screenshot here]
 
-**Tableau Public Dashboard:**  
-[Paste Tableau Public link here]
+**Tableau Public Dashboard:[View the live dashboard](https://public.tableau.com/views/IMT577_DW_Souporno_Ghosh_Dashboard_Story/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -56,7 +55,8 @@ This structure makes it easier to write analytical queries, build dashboards, an
 
 For this project, I designed the model as a **star schema / fact constellation schema**. A star schema connects fact tables to surrounding dimensions. A fact constellation, also called a galaxy schema, includes multiple fact tables that share common dimensions.
 
-[Put star schema / dimensional model image here]
+<img width="979" height="699" alt="image" src="https://github.com/user-attachments/assets/f2df233a-0a81-41bb-a09c-2a017073e78f" />
+
 
 ---
 
