@@ -353,8 +353,6 @@ To fix the problem, I:
 
 This debugging process was important because it showed that the data warehouse was not just built, but also validated and corrected through root cause analysis.
 
-[Put screenshot of corrected date validation query here]
-
 ---
 
 ## Tableau Dashboard
@@ -395,7 +393,8 @@ Store 10 performed better than Store 21 overall.
 
 Store 10 exceeded its 2013 target but declined in 2014. Store 21 underperformed in both years.
 
-[Put overall sales performance chart here]
+<img width="631" height="359" alt="image" src="https://github.com/user-attachments/assets/cf11317c-009f-457f-8784-3b9459f1e5b6" />
+
 
 ---
 
@@ -410,7 +409,8 @@ Store 10 was more profitable than Store 21 in both years.
 
 Store 21 had lower profitability and a declining profit trend, raising concerns about long-term sustainability.
 
-[Put profitability analysis chart here]
+<img width="288" height="388" alt="image" src="https://github.com/user-attachments/assets/5263f56b-9cf2-4e69-b7e0-d33ab7b4d8b7" />
+
 
 ---
 
