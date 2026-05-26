@@ -6,7 +6,6 @@ This project is an end-to-end business intelligence and data warehousing project
 
 The analysis focuses on **Store 10** and **Store 21**. I built the full pipeline from source data ingestion to staging tables, dimension tables, fact tables, secure SQL views, and a final Tableau dashboard.
 
-[Put final Tableau dashboard screenshot here]
 
 **Tableau Public Dashboard: [View the live dashboard](https://public.tableau.com/views/IMT577_DW_Souporno_Ghosh_Dashboard_Story/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
