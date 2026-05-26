@@ -441,7 +441,8 @@ $2,000,000
 
 This method creates a transparent and performance-based bonus allocation.
 
-[Put bonus distribution chart here]
+<img width="623" height="281" alt="image" src="https://github.com/user-attachments/assets/16a932af-0590-460d-a8e9-64d13a84f4d6" />
+
 
 ---
 
@@ -467,7 +468,8 @@ The strongest product categories were:
 
 The dashboard also showed higher profit margins on certain high-performing days. This suggests an opportunity to push best-selling products on high-margin days and optimize Store 21's product mix.
 
-[Put product category breakdown heatmap here]
+<img width="1064" height="356" alt="image" src="https://github.com/user-attachments/assets/a82d0be6-0ace-448f-bfd8-0f28b58b8d7c" />
+
 
 ---
 
