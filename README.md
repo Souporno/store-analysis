@@ -453,7 +453,8 @@ Store 21 showed a flatter trend with no strong sales peaks.
 
 This suggests that Store 10 can benefit from targeted weekday promotions, while Store 21 may require deeper investigation into product mix, local demand, staffing, and marketing effectiveness.
 
-[Put weekly sales trends chart here]
+<img width="521" height="308" alt="image" src="https://github.com/user-attachments/assets/14895167-eca1-484a-8008-f1808deba8e7" />
+
 
 ---
 
