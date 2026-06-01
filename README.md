@@ -419,7 +419,8 @@ Store 21 missed both sales and profit expectations across the analysis period. B
 
 Store 10, despite its 2014 decline, showed stronger long-term return potential. It should receive further investment in targeted promotions, staffing alignment, category expansion, and high-margin product lines.
 
-[Put store closure recommendation slide here]
+<img width="786" height="374" alt="image" src="https://github.com/user-attachments/assets/17ed1637-878d-444b-b241-a559f7674492" />
+
 
 ---
 
