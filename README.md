@@ -508,7 +508,8 @@ Based on the analysis, I recommended the following:
 5. Open new stores in validated high-demand markets where reseller or online sales are strong and physical store presence is limited.
 6. Continue using BI dashboards to monitor sales, profitability, targets, and expansion opportunities over time.
 
-[Put final recommendations slide here]
+<img width="718" height="336" alt="image" src="https://github.com/user-attachments/assets/2732fc43-6a2c-4489-8438-b4df29edab62" />
+
 
 ---
 
