@@ -493,7 +493,8 @@ High-priority expansion candidates included:
 
 The strongest candidates were cities with no existing physical store presence but strong online or reseller sales. This suggests validated demand without current physical coverage.
 
-[Put market expansion map here]
+<img width="402" height="225" alt="image" src="https://github.com/user-attachments/assets/cc7e5360-48c6-40b2-91d4-32dafcd660ea" />
+
 
 ---
 
