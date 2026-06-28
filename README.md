@@ -77,7 +77,6 @@ Secure SQL Views
 Tableau Dashboard and Story
 ```
 
-[Put data pipeline diagram here]
 
 The warehouse includes two central fact tables and multiple shared dimensions.
 
@@ -109,7 +108,6 @@ Key measures include:
 * Unit cost
 * Gross profit
 
-[Put FACT_SALES table screenshot here]
 
 ---
 
@@ -129,7 +127,6 @@ This fact table supports:
 * Channel and reseller target analysis
 * Bonus allocation calculations
 
-[Put FACT_DAILY_TARGETS table screenshot here]
 
 ---
 
@@ -147,7 +144,6 @@ The warehouse includes the following dimensions:
 | DIM_RESELLER     | Stores reseller information and reseller type                                                   |
 | DIM_SALES_HEADER | Preserves sales header information for lineage and transaction context                          |
 
-[Put dimension tables screenshot here]
 
 ---
 
@@ -212,7 +208,6 @@ STAGING_TARGETDATAPRODUCT
 
 The staging layer preserved the source data structure before transformation into a dimensional model.
 
-[Put Snowflake staging tables screenshot here]
 
 ---
 
@@ -237,7 +232,6 @@ Examples of dimension work:
 * `DIM_CHANNEL` supports direct and indirect channel analysis.
 * `DIM_RESELLER` supports reseller and expansion analysis.
 
-[Put dimension load SQL screenshot here]
 
 ---
 
@@ -261,7 +255,6 @@ FACT_SALES
 FACT_DAILY_TARGETS
 ```
 
-[Put fact table SQL screenshot here]
 
 ---
 
@@ -301,7 +294,6 @@ The custom views supported:
 * Weekly sales trends
 * Market expansion opportunities
 
-[Put secure views SQL screenshot here]
 
 ---
 
